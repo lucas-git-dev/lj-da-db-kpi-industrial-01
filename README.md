@@ -44,7 +44,7 @@ Monitorar a performance de produção e qualidade de uma fábrica, com foco em a
 7) Gerar Insights a partir dos Dashboards
 
 ## Visão geral do Dashboard
-![Overview](images\dashboard_overview.png)
+![Overview](images/dashboard_overview.png)
 
 ## Principais Insights
 
